@@ -9,6 +9,10 @@
     --btn-color: #0B63DC;
   }
 
+.bodyy {
+  background-color: black;
+}
+
 /*NAVBAR*/
 .navbar .getstarted {
 	background: #106eea;
@@ -56,6 +60,10 @@
 	font-size: 18px;
 	line-height: 0.3;
 	background: #fff;
+}
+
+.bars {
+  padding-right: -10px;
 }
 
 /*BANNER*/
@@ -137,7 +145,7 @@ section.bannernya p {
 }
 @media (max-width:800px) {
 	.banner-area {
-		min-height: 600px;
+		min-height: 575px;
 	}
 	.banner-area h1 {
 		font-size: 27px;
